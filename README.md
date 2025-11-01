@@ -7,4 +7,4 @@
 5. Apresentar em 10 minutos
 
 ### Relatório
-- Aqui um (exemplo de relatório)[./exemplo-relatorio.md]
+- Aqui um [exemplo de relatório](./exemplo-relatorio.md)
