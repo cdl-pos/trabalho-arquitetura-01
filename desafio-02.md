@@ -30,7 +30,6 @@ O sistema deve calcular:
 - Deve retornar o **valor final do orçamento** e um **resumo dos itens**.
 - O design deve permitir a inclusão de **novas regras de desconto** (ex: cupons, convênios).
 - Implementação **orientada a objetos**, utilizando princípios **SOLID** e padrões de projeto.
-- **Testes automatizados** obrigatórios (PHPUnit ou similar).
 - Uso de **arquitetura limpa** é um diferencial.
 
 ---
